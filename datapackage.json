@@ -1,0 +1,55 @@
+{
+  "bytes": 1807,
+  "count_of_rows": 59,
+  "hash": "88b2a856e48527cd865be2da8080a6c7",
+  "name": "population_kz",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 1807,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "f33b563f7d347e63b684adcbc7072b73",
+      "name": "population",
+      "path": "data/population_kz.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Country Name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Country Code",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "Value",
+            "type": "integer"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "title": "Population of Republic of Kazakhstan"
+}
