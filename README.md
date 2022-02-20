@@ -1,4 +1,4 @@
-Population data for Republic of Kazakhstan.
+Population data for Republic of Kazakhstan (Kazakh Autonomous Socialist Soviet Republic before 1991) from 1960 to recent year.
 
 Metadata is based on [frictionlessdata's data package standard](https://specs.frictionlessdata.io/data-package/).
 
