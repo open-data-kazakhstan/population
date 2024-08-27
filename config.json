@@ -1,0 +1,13 @@
+{
+  "title": "Kazakhstan Population",
+  "description": "Population data for Republic of Kazakhstan (Kazakh Autonomous Socialist Soviet Republic before 1991) from 1960 to recent year.",
+  "logo": "https://datahub.io/datahub-cube.svg",
+  "navbarTitle": {
+    "logo": "https://datahub.io/datahub-cube.svg",
+    "text": "Kazakhstan Population"
+  },
+  "author": {
+    "name": "Anuar Ustayev"
+  },
+  "showSidebar": false
+}
